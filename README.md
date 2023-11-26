@@ -4,5 +4,4 @@ I've used some react hooks, react-slick-slider, font awesome, react-routers and 
 
 # You can check the site live here - 
 
-https://react-daraz-clone.netlify.app/
-
+https://udibaba.vercel.app/
